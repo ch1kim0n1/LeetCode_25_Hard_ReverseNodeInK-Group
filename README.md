@@ -1,2 +1,6 @@
-# LeetCode_25_Hard_ReverseNodeInK-Group
-LeetCode_25_Hard_ReverseNodeInK-Group
+# LeetCode - 25 - Hard - Reverse Node In K-Group
+
+## Result No 1
+
+![image](https://github.com/user-attachments/assets/2e706787-e6e5-42ef-a6b4-61cb671dbfd3)
+
